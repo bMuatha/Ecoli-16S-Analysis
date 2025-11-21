@@ -1,5 +1,6 @@
 ## E. coli 16S rRNA Bioinformatics Analysis
 
+This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Project Objectives
 - Retrieve 16S rRNA sequences from NCBI using the `rentrez` package  
